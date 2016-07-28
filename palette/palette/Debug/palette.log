@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: unresolved external symbol __imp__GradientFill@24 referenced in function "void __cdecl drawButtonRed(struct tagDRAWITEMSTRUCT *,struct HWND__ *)" (?drawButtonRed@@YAXPAUtagDRAWITEMSTRUCT@@PAUHWND__@@@Z)
+C:\Users\Nguyen Xuan Huy\Documents\Visual Studio 2015\Projects\LTWindows\palette\Debug\palette.exe : fatal error LNK1120: 1 unresolved externals
